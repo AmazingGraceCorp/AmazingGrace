@@ -4,7 +4,7 @@ Restaurant, Bakery, and Grocery
 
 Filipino pastries, customized cakes, first resto to bring ube cheese pandesal in NYC!
 
-You can visit us on our [FACEBOOK PAGE](https://www.facebook.com/Amazing-Grace-Restaurant-107927027616035) to check in. Don't forget to leave a like and follow us.
+You can visit us on our **[FACEBOOK PAGE](https://www.facebook.com/Amazing-Grace-Restaurant-107927027616035)** to check in. Don't forget to leave a like and follow us.
 
 Filipino Restaurant. Our diner serves breakfast all day, in addition to wholesome and flavorful dining options for lunch and dinner.
 
@@ -27,7 +27,7 @@ As of now we don't do delivery. If you want a delivery, you can try [GrubHub](ht
 
 # Amazing Grace Bakery
 
-Being the first one who brought the [UBE PANDESAL](https://user-images.githubusercontent.com/80164448/110217329-6678b600-7e81-11eb-906c-a9573625b137.PNG)<b> in New York!
+Being the first one who brought the  **[UBE PANDESAL](https://user-images.githubusercontent.com/80164448/110217329-6678b600-7e81-11eb-906c-a9573625b137.PNG)** in New York!
 
 We also have Freshly Baked Pandesal! We bake a pandesal 3x a day (8AM, 1PM, 5PM).
 
