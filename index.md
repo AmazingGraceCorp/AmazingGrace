@@ -23,3 +23,11 @@ As of now we don't do delivery. If you want a delivery, you can try [GrubHub](ht
 
 
 # Amazing Grace Grocery
+
+
+# Amazing Grace Bakery
+
+Being the first one who brought the [UBE PANDESAL](https://user-images.githubusercontent.com/80164448/110217329-6678b600-7e81-11eb-906c-a9573625b137.PNG) in New York!
+
+We also have Freshly Baked Pandesal! We bake a pandesal 3x a day (8AM, 1PM, 5PM).
+
