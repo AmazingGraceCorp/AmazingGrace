@@ -5,13 +5,13 @@ You can visit us on our [FACEBOOK PAGE](https://www.facebook.com/Amazing-Grace-R
 Filipino Restaurant. Our diner serves breakfast all day, in addition to wholesome and flavorful dining options for lunch and dinner.
 
 ### Menu
-
 Here's the Full View of our Menu
+
 ## First Page
 ![Menu](https://user-images.githubusercontent.com/80164448/110212300-bb5c0280-7e68-11eb-99a3-ee9cf7723836.jpg)
 
 ## Second Page
-![Image](C:\Users\keane\Downloads\AG\Menu 2)
+![Menu 2](https://user-images.githubusercontent.com/80164448/110212344-ee9e9180-7e68-11eb-94d4-edbfb2b50d91.jpg)
 
 ### Jekyll Themes
 
