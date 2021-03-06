@@ -1,5 +1,9 @@
 # Amazing Grace
 
+Restaurant, Bakery, and Grocery
+
+Filipino pastries, customized cakes, first resto to bring ube cheese pandesal in NYC!
+
 You can visit us on our [FACEBOOK PAGE](https://www.facebook.com/Amazing-Grace-Restaurant-107927027616035) to check in. Don't forget to leave a like and follow us.
 
 Filipino Restaurant. Our diner serves breakfast all day, in addition to wholesome and flavorful dining options for lunch and dinner.
