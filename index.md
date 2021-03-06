@@ -2,31 +2,13 @@
 
 You can visit us on our [FACEBOOK PAGE](https://www.facebook.com/Amazing-Grace-Restaurant-107927027616035) to check in. Don't forget to leave a like and follow us.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Filipino Restaurant. Our diner serves breakfast all day, in addition to wholesome and flavorful dining options for lunch and dinner.
 
-### Markdown
+### Menu
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Here's our Full View of our Menu
+![Image](C:\Users\keane\Downloads\AG\Menu)
+![Image](C:\Users\keane\Downloads\AG\Menu 2)
 
 ### Jekyll Themes
 
