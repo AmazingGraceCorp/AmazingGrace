@@ -6,8 +6,11 @@ Filipino Restaurant. Our diner serves breakfast all day, in addition to wholesom
 
 ### Menu
 
-Here's our Full View of our Menu
-![Image](C:\Users\keane\Downloads\AG\Menu)
+Here's the Full View of our Menu
+## First Page
+![Menu](https://user-images.githubusercontent.com/80164448/110212300-bb5c0280-7e68-11eb-99a3-ee9cf7723836.jpg)
+
+## Second Page
 ![Image](C:\Users\keane\Downloads\AG\Menu 2)
 
 ### Jekyll Themes
