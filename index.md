@@ -1,4 +1,4 @@
-# Amazing Grace
+# Amazing Grace Restaurant
 
 Restaurant, Bakery, and Grocery
 
@@ -20,3 +20,6 @@ Here's the Full View of our Menu
 ### How to order:
 
 As of now we don't do delivery. If you want a delivery, you can try [GrubHub](https://www.grubhub.com/restaurant/amazing-grace-69-02-roosevelt-ave-woodside/1717134) or [Seamless](https://www.seamless.com/menu/amazing-grace-69-02-roosevelt-ave-woodside/1717134). You can also call us at 718-899-7940 or 718-335-7036 and place an order for pickup!
+
+
+# Amazing Grace Grocery
