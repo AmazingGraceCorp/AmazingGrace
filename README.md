@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Amazing Grace!
 
-You can use the [editor on GitHub](https://github.com/AmazingGraceCorp/AmazingGrace/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use this [LINK](https://www.facebook.com/Amazing-Grace-Restaurant-107927027616035) to check our Facebook Page! Don't forget to leave a like and follow.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
