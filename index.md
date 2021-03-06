@@ -11,10 +11,10 @@ Filipino Restaurant. Our diner serves breakfast all day, in addition to wholesom
 ## Menu
 Here's the Full View of our Menu
 
-### First Page
+#### First Page
 ![Menu](https://user-images.githubusercontent.com/80164448/110212300-bb5c0280-7e68-11eb-99a3-ee9cf7723836.jpg)
 
-### Second Page
+#### Second Page
 ![Menu 2](https://user-images.githubusercontent.com/80164448/110212344-ee9e9180-7e68-11eb-94d4-edbfb2b50d91.jpg)
 
 ### How to order:
@@ -27,7 +27,7 @@ As of now we don't do delivery. If you want a delivery, you can try [GrubHub](ht
 
 # Amazing Grace Bakery
 
-Being the first one who brought the [UBE PANDESAL](https://user-images.githubusercontent.com/80164448/110217329-6678b600-7e81-11eb-906c-a9573625b137.PNG) in New York!
+Being the first one who brought the [UBE PANDESAL](https://user-images.githubusercontent.com/80164448/110217329-6678b600-7e81-11eb-906c-a9573625b137.PNG)<b> in New York!
 
 We also have Freshly Baked Pandesal! We bake a pandesal 3x a day (8AM, 1PM, 5PM).
 
